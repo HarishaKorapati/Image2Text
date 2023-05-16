@@ -10,20 +10,9 @@ DeepCaptioning provides training and evaluation environments for creating an im2
 
 ## Features
 
-* InceptionV3 encoder
+* InceptionV3 encoder/VGG-16 encoder
 * LSTM decoder
 * Greedy and beam search decoding
-
-## Results on COCO dataset
-
-![result6](results/result6.png)
-![result7](results/result7.png)
-
-## Results on flickr8k dataset
-
-![result1](results/result1.png)
-![result2](results/result2.png)
-![result3](results/result3.png)
 
 ## How to use
 
