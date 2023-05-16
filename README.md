@@ -1,6 +1,3 @@
-# DeepCaptioning
-
-Yet another implementation of [im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt) (show and tell: A Neural Image Caption Generator).
 
 ## Description
 
